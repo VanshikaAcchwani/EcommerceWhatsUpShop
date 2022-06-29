@@ -4,7 +4,7 @@
     function translateId(){
 		global $language;
         global $rawword;
-		//word definitions...
+		//word definitions....
 		$definitions = array(
 			"A picture has been deleted." => "Sebuah gambar telah dihapus.",
 			"About" => "Tentang",

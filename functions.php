@@ -12,6 +12,7 @@ function IsChecked($chkname,$value){
 	return false;
 }
 
+
 function showCatName($id){
 	global $connection;
 	global $tablecategories;

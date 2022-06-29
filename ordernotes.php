@@ -8,4 +8,5 @@ if(isset($_POST["message"])){
 	mysqli_query($connection, "INSERT INTO $tablemessages (date, message) VALUES ('$currenttime', '$message')");
 }
 
+
 ?>

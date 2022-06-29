@@ -4,11 +4,11 @@ session_start();
 include("config.php");
 include("functions.php");
 include("uilang.php");
-
+ 
 ?>
 
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 	<head>
 		<title>Admin Panel | <?php echo $websitetitle ?></title>

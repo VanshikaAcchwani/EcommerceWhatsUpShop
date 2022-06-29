@@ -3,6 +3,7 @@ include("config.php");
 include("thumbnailgenerator.php");
 include("uilang.php");
 
+
 if(isset($_POST["editposttitle"]) && isset($_POST["id"])){
 	$id = mysqli_real_escape_string($connection, $_POST["id"]);
 	$posttitle = mysqli_real_escape_string($connection, $_POST["editposttitle"]);

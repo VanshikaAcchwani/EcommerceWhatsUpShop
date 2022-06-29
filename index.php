@@ -18,7 +18,7 @@ if($websitetitle == ""){
 	
 	<!DOCTYPE html>
 	<html>
-		<head>
+		<head> 
 			
 			<?php
 			

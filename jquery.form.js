@@ -22,7 +22,7 @@
     }
 }
 
-(function($) {
+(function($) { 
 "use strict";
 
 /*

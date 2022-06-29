@@ -18,3 +18,4 @@ if(isset($_POST["postid"])){
     
     echo "Viewed " . $postid . " by " . $currentviewer;
 }
+

@@ -3,6 +3,7 @@ include("config.php");
 include("thumbnailgenerator.php");
 include("uilang.php");
 
+
 if(isset($_POST["newposttitle"])){
 	$newposttitle = mysqli_real_escape_string($connection, $_POST["newposttitle"]);
 	$newpostcontent = mysqli_real_escape_string($connection, $_POST["newpostcontent"]);
