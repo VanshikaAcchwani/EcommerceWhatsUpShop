@@ -9,7 +9,7 @@ Step 5 : Run the web, twice for first time, and login to your Admin Panel by acc
 */
 
 //Admin panel credentials
-$username = "admin";
+$username = "admin"; 
 $password = "admin";
 
 
